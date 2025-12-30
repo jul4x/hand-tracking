@@ -53,7 +53,7 @@ python handtrack.py
 .
 ├── .gitignore
 ├── README.md
-├── handtrack.py
+├── main.py
 └── requirements.txt
 ```
 
