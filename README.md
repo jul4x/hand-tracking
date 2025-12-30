@@ -2,8 +2,6 @@
 
 Détection et tracking des mains en temps réel avec MediaPipe et OpenCV.
 
-![Hand Tracking Demo](demo.png)
-
 ## Prérequis
 
 - **macOS** (testé sur macOS 15 Sequoia)
