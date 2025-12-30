@@ -51,10 +51,10 @@ python handtrack.py
 
 ```
 .
+├── .gitignore
 ├── README.md
 ├── handtrack.py
-├── requirements.txt
-└── venv/
+└── requirements.txt
 ```
 
 ## Fichier requirements.txt
